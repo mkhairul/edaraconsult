@@ -4,7 +4,7 @@
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="author" content="Edara Strategic Consultancy" />
-  <meta property="og:image" content="<?php echo url('/'); ?>images/edara-logo-in-blue-small.png" />
+  <meta property="og:image" content="<?php echo url('/'); ?>/images/edara-logo-in-blue-small.png" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="http://www.edaraconsult.com" />
   
